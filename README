@@ -1,6 +1,9 @@
 The code in this repository is attached to Peter Traver's thesis from NYU in 2023. 
 The project provides code for the basic construction of the Markov model used across three compositions.
+Additionally, code is provided for the distance metrics implemented in the model.
 The first composition is titled The Soundcube/Of the Earth and Sky.
 The second composition is titled The Planets.
 The third composition is titled Penrose/The Sound Maze.
-Additionally, code is provided for the distance metrics implemented in the model.
+
+The code for Penrose is primarily done in Matlab while the remainder of the projects use Python. 
+Penrose utilizes Python only to generate pitch set progressions using the model.
